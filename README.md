@@ -14,15 +14,14 @@
 <a href="https://leetcode.com/hammadiAz/">
   <img height="50" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png"/>
 </a>
-<a href="https://twitter.com/Ipiyushmalhotra">
-  <img height="50" src="https://twitter.com/AzaiezHammadi"/>
+<a href="https://twitter.com/AzaiezHammadi">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
 </a>
 <a href="https://www.instagram.com/hamadi_azaiez/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
   <a href="https://www.facebook.com/h4mmadi/">
-  <img height="50" src="![image](https://github.com/HamadiAZ/HamadiAZ/assets/97397110/3ac390fa-6112-4d7a-9ec7-9815d2388a6d)
-"/>
+  <img height="50" src="https://cdn2.iconfinder.com/data/icons/ios-14-custom-application/62/application-01-512.png"/>
 </a>
   
 </p>
