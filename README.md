@@ -32,40 +32,34 @@
 
 ---
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+<h2> 👨🏻‍💻 &nbsp;Discovering My Interests: A Peek into Who I Am</h2>
 
 ```yaml
-name: Piyush Malhotra
-located_in: Montreal, Quebec
-current_job: Full Stack Developer
+name: Hammadi Azaiez
+located_in: Tunis, Tunisia
+current_position: ICT Engineering student
 education:
   [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
+    "ICT Engineering student at ENIG",
+    "Preparatory in Technical science",
+    "Bachelor's in Technical science",
   ]
-company: Soulber
 
 fields_of_interests:
   [
     "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Game Development",
+    "Problem Solving",
     "DevOps",
+    "Networking"
   ]
 technical_background:
   [
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    "Intern - PERN Stack developer at AURES group",
   ]
   
-currently_learning: ["Docker, Kubernetes and React Native"]
-2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+currently_learning: ["More problem solving, React native, Spring boot"]
+2023 Goals: ["Learn more, create new projects & enlarge my social network"]
+hobbies: ["Gaming", "Chess", "Football", "Robotics", "Gym"]
 ```
   
 ---  
