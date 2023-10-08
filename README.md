@@ -55,6 +55,7 @@ fields_of_interests:
 technical_background:
   [
     "Intern - PERN Stack developer at AURES group",
+    "Intern - DotNet (.Net) developer"
   ]
   
 currently_learning: ["More problem solving, React native, Spring boot"]
